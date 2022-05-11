@@ -19,6 +19,10 @@ Ryan will respond to your issue and decide whether to refer it to 2i2c for techn
 
 ## Hub Usage
 
+This is a rough and ready guide to using the Hub.
+This documentation will be expanded as we learn and evolve.
+Feel free to [edit it yourself](https://github.com/m2lines/hub/edit/main/README.md) if you have suggetions for improvement!
+
 ### Logging In
 
 1. 👀 Navigate to https://m2lines.2i2c.cloud/ and click the big orange button that says "Log in to continue"
