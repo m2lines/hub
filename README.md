@@ -15,6 +15,8 @@ For questions about how to use the Hub, please open an issue in this repo:
 
 - https://github.com/m2lines/hub/issues
 
+Ryan will respond to your issue and decide whether to refer it to 2i2c for technical support.
+
 ## Hub Usage
 
 ### Logging In
