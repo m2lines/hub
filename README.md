@@ -62,10 +62,10 @@ The environments are maintained by Pangeo. You can read all about them at the fo
 
 These are Docker images which you can also run on your own computer.
 The Hub contains a specific version of the image which can be found [here](https://github.com/2i2c-org/infrastructure/blob/master/config/clusters/m2lines/common.values.yaml).
-For example, at the time of writing, the version of `pangeo-notebook` is `2022.04.20`.
+For example, at the time of writing, the version of `pangeo-notebook` is `2022.05.10`.
 A complete list of all packages installed in this environment is located at:
 
-- https://github.com/pangeo-data/pangeo-docker-images/blob/2022.04.20/pangeo-notebook/packages.txt
+- https://github.com/pangeo-data/pangeo-docker-images/blob/2022.05.10/pangeo-notebook/packages.txt
 
 There are separate images for pytorch and tensorflow.
 
