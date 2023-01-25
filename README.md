@@ -77,7 +77,7 @@ However, these will disappear when your server shuts down.
 Data and files work differently in the cloud.
 To help onboard you to this new way of working, we have written a guide to Files and Data in the Cloud:
 
-- https://docs.2i2c.org/en/latest/user/storage.html
+- https://docs.2i2c.org/en/latest/data/index.html
 
 We recommend you read this thoroughly, especially the part about Git and GitHub.
 
